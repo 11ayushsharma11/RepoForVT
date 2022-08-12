@@ -4,6 +4,7 @@ practice\OverloadingTest.class
 practice\HardAssert.class
 practice\MyDataProvider.class
 practice\SoftAssertion.class
+practice\VMParameterTest.class
 com\crm\sdet\campaign\CreateCampaign.class
 allTests\AllTests.class
 com\crm\sdet\organisation\CreateOrganization.class

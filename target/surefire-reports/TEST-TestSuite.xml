@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="94.312" tests="5" errors="0" skipped="0" failures="1">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="127.495" tests="5" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -19,7 +19,7 @@
     <property name="user.country" value="IN"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_202\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\AyushSharma\AppData\Local\Temp\surefire1581656540563187085\surefirebooter-20220811155910815_3.jar C:\Users\AyushSharma\AppData\Local\Temp\surefire1581656540563187085 2022-08-11T15-59-09_449-jvmRun1 surefire-20220811155910815_1tmp surefire_0-20220811155910815_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\AyushSharma\AppData\Local\Temp\surefire7562343272375803466\surefirebooter-20220812131148953_3.jar C:\Users\AyushSharma\AppData\Local\Temp\surefire7562343272375803466 2022-08-12T13-11-47_674-jvmRun1 surefire-20220812131148953_1tmp surefire_0-20220812131148953_2tmp"/>
     <property name="surefire.test.class.path" value="D:\TY Workspaces\SDETTraining\vTiger\target\test-classes;D:\TY Workspaces\SDETTraining\vTiger\target\classes;C:\Users\AyushSharma\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\AyushSharma\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\AyushSharma\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\AyushSharma\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\AyushSharma\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\AyushSharma\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\AyushSharma\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\AyushSharma\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\AyushSharma\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\AyushSharma\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\AyushSharma\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\AyushSharma\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\AyushSharma\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\AyushSharma\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\AyushSharma\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\AyushSharma\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\AyushSharma\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\AyushSharma\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\AyushSharma\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\AyushSharma\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\AyushSharma\.m2\repository\io\github\bonigarcia\webdrivermanager\5.2.1\webdrivermanager-5.2.1.jar;C:\Users\AyushSharma\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\AyushSharma\.m2\repository\com\google\code\gson\gson\2.9.0\gson-2.9.0.jar;C:\Users\AyushSharma\.m2\repository\com\github\docker-java\docker-java\3.2.13\docker-java-3.2.13.jar;C:\Users\AyushSharma\.m2\repository\com\github\docker-java\docker-java-core\3.2.13\docker-java-core-3.2.13.jar;C:\Users\AyushSharma\.m2\repository\com\github\docker-java\docker-java-api\3.2.13\docker-java-api-3.2.13.jar;C:\Users\AyushSharma\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.10.3\jackson-annotations-2.10.3.jar;C:\Users\AyushSharma\.m2\repository\commons-io\commons-io\2.6\commons-io-2.6.jar;C:\Users\AyushSharma\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.10.3\jackson-databind-2.10.3.jar;C:\Users\AyushSharma\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.10.3\jackson-core-2.10.3.jar;C:\Users\AyushSharma\.m2\repository\org\bouncycastle\bcpkix-jdk15on\1.64\bcpkix-jdk15on-1.64.jar;C:\Users\AyushSharma\.m2\repository\org\bouncycastle\bcprov-jdk15on\1.64\bcprov-jdk15on-1.64.jar;C:\Users\AyushSharma\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.30\jcl-over-slf4j-1.7.30.jar;C:\Users\AyushSharma\.m2\repository\com\github\docker-java\docker-java-transport-httpclient5\3.2.13\docker-java-transport-httpclient5-3.2.13.jar;C:\Users\AyushSharma\.m2\repository\com\github\docker-java\docker-java-transport\3.2.13\docker-java-transport-3.2.13.jar;C:\Users\AyushSharma\.m2\repository\net\java\dev\jna\jna\5.8.0\jna-5.8.0.jar;C:\Users\AyushSharma\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\AyushSharma\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\AyushSharma\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.1.3\httpclient5-5.1.3.jar;C:\Users\AyushSharma\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.1.3\httpcore5-5.1.3.jar;C:\Users\AyushSharma\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.1.3\httpcore5-h2-5.1.3.jar;C:\Users\AyushSharma\.m2\repository\org\apache\poi\poi\4.1.2\poi-4.1.2.jar;C:\Users\AyushSharma\.m2\repository\commons-codec\commons-codec\1.13\commons-codec-1.13.jar;C:\Users\AyushSharma\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\AyushSharma\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\AyushSharma\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar;C:\Users\AyushSharma\.m2\repository\org\apache\poi\poi-ooxml\4.1.2\poi-ooxml-4.1.2.jar;C:\Users\AyushSharma\.m2\repository\org\apache\poi\poi-ooxml-schemas\4.1.2\poi-ooxml-schemas-4.1.2.jar;C:\Users\AyushSharma\.m2\repository\org\apache\xmlbeans\xmlbeans\3.1.0\xmlbeans-3.1.0.jar;C:\Users\AyushSharma\.m2\repository\org\apache\commons\commons-compress\1.19\commons-compress-1.19.jar;C:\Users\AyushSharma\.m2\repository\com\github\virtuald\curvesapi\1.06\curvesapi-1.06.jar;C:\Users\AyushSharma\.m2\repository\mysql\mysql-connector-java\8.0.28\mysql-connector-java-8.0.28.jar;C:\Users\AyushSharma\.m2\repository\com\google\protobuf\protobuf-java\3.11.4\protobuf-java-3.11.4.jar;C:\Users\AyushSharma\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\AyushSharma\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\AyushSharma\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\AyushSharma"/>
@@ -32,7 +32,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\AyushSharma\AppData\Local\Temp\surefire1581656540563187085\surefirebooter-20220811155910815_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\AyushSharma\AppData\Local\Temp\surefire7562343272375803466\surefirebooter-20220812131148953_3.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_202\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_202\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -63,157 +63,113 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="createCampaign" classname="com.crm.sdet.campaign.CreateCampaign" time="3.132">
-    <failure message="Element &lt;a id=&quot;more&quot; class=&quot;drop_downnew&quot; href=&quot;index.php?module=Campaigns&amp;action=index&quot; name=&quot;Campaigns&quot;&gt; could not be scrolled into view&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;DESKTOP-UNQGVJM&apos;, ip: &apos;192.168.218.32&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_202&apos;&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 68.8.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200429190206, moz:geckodriverVersion: 0.25.0, moz:headless: false, moz:processID: 20888, moz:profile: C:\Users\AyushSharma\AppDat..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}&#10;Session ID: 97b44d98-5dca-4f5c-a64c-638c685296f6" type="org.openqa.selenium.ElementNotInteractableException"><![CDATA[org.openqa.selenium.ElementNotInteractableException: 
-Element <a id="more" class="drop_downnew" href="index.php?module=Campaigns&action=index" name="Campaigns"> could not be scrolled into view
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-UNQGVJM', ip: '192.168.218.32', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 68.8.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200429190206, moz:geckodriverVersion: 0.25.0, moz:headless: false, moz:processID: 20888, moz:profile: C:\Users\AyushSharma\AppDat..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 97b44d98-5dca-4f5c-a64c-638c685296f6
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
-	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:498)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at com.sun.proxy.$Proxy16.click(Unknown Source)
-	at comcast.vTiger.pageRepositories.HomePage.clickCampaignTab(HomePage.java:81)
-	at com.crm.sdet.campaign.CreateCampaign.createCampaign(CreateCampaign.java:62)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:498)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
-	at org.testng.TestRunner.privateRun(TestRunner.java:648)
-	at org.testng.TestRunner.run(TestRunner.java:505)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
-	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
-	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
-	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at java.lang.Thread.run(Thread.java:748)
-]]></failure>
+  <testcase name="createCampaign" classname="com.crm.sdet.campaign.CreateCampaign" time="32.61">
     <system-out><![CDATA[[TestNGContentHandler] [WARN] It is strongly recommended to add "<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >" at the top of your file, otherwise TestNG may fail or not work as expected.
-edge
-firefox
 chrome
-createCampaign failed. Taking screenshot now.
+firefox
+edge
+//span[contains(text(),'Test Yantra74 -  Organization Information')]
+//span[contains(text(),'Product586 -  Product Information')]
+//span[contains(text(),'Campaign429 -  Campaign Information')]
+Product586
 ]]></system-out>
     <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-Starting Microsoft Edge WebDriver 104.0.1293.47 (246533a39fec5a167e7729d997877afea075bd86) on port 20364
-To submit feedback, report a bug, or suggest new features, please visit https://github.com/MicrosoftEdge/EdgeWebDriver
-
-Only local connections are allowed.
-Please see https://aka.ms/WebDriverSecurity for suggestions on keeping Microsoft Edge WebDriver safe.
-
-Starting ChromeDriver 104.0.5112.79 (3cf3e8c8a07d104b9e1260c910efb8f383285dc5-refs/branch-heads/5112@{#1307}) on port 1930
+Starting ChromeDriver 104.0.5112.79 (3cf3e8c8a07d104b9e1260c910efb8f383285dc5-refs/branch-heads/5112@{#1307}) on port 20985
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-1660213761238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AYUSHS~1\\AppData\\Local\\Temp\\rust_mozprofilekiZx8d"
+Starting Microsoft Edge WebDriver 104.0.1293.47 (246533a39fec5a167e7729d997877afea075bd86) on port 44347
+To submit feedback, report a bug, or suggest new features, please visit https://github.com/MicrosoftEdge/EdgeWebDriver
+
+Only local connections are allowed.
+Please see https://aka.ms/WebDriverSecurity for suggestions on keeping Microsoft Edge WebDriver safe.
+
+1660290120761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AYUSHS~1\\AppData\\Local\\Temp\\rust_mozprofileXx9Y1t"
 Microsoft Edge WebDriver was started successfully.
-Aug 11, 2022 3:59:23 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Aug 12, 2022 1:12:04 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-1660213764589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1660213764593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1660213764594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1660213764595	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-Aug 11, 2022 3:59:26 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+1660290126717	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1660290126718	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1660290126721	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1660290126721	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Aug 12, 2022 1:12:12 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 JavaScript error: undefined, line 14: Error: An unexpected error occurred
-JavaScript error: moz-extension://77d0e7a4-b8ab-447e-9e7c-e20baf454b73/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: moz-extension://764ac01a-7fc5-4b90-84ce-78cdaefca5eb/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
 JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1660213773949	Marionette	INFO	Listening on port 56694
-1660213774361	Marionette	WARN	TLS certificate errors will be ignored for this session
-Aug 11, 2022 3:59:34 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[Parent 48556, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1588189409/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 26860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588189409/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+1660290137043	Marionette	INFO	Listening on port 51922
+1660290137199	Marionette	WARN	TLS certificate errors will be ignored for this session
+Aug 12, 2022 1:12:17 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
+JavaScript warning: http://localhost:8888/jscalendar/calendar.js, line 1695: unreachable code after return statement
+JavaScript warning: http://localhost:8888/jscalendar/calendar.js, line 1695: unreachable code after return statement
+JavaScript warning: http://localhost:8888/jscalendar/calendar.js, line 1695: unreachable code after return statement
 JavaScript warning: http://localhost:8888/jscalendar/calendar.js, line 1695: unreachable code after return statement
 ]]></system-err>
   </testcase>
-  <testcase name="createOrganization" classname="com.crm.sdet.organisation.CreateOrganization" time="4.812">
-    <system-out><![CDATA[firefox
-//span[contains(text(),'Test Yantra188 -  Organization Information')]
-//span[contains(text(),'Product945 -  Product Information')]
-Product945
-]]></system-out>
-    <system-err><![CDATA[1660213788029	Marionette	INFO	Stopped listening on port 56694
-[Parent 20888, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1588189409/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+  <testcase name="createOrganization" classname="com.crm.sdet.organisation.CreateOrganization" time="34.33">
+    <system-err><![CDATA[1660290181138	Marionette	INFO	Stopped listening on port 51922
+[Child 48320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588189409/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 46364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588189409/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 46364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588189409/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Parent 48556, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1588189409/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 34692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588189409/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
-1660213793709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AYUSHS~1\\AppData\\Local\\Temp\\rust_mozprofile2Kso7Q"
-1660213795563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1660213795563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1660213795564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1660213795564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+]]></system-err>
+  </testcase>
+  <testcase name="deleteProduct" classname="com.crm.sdet.product.DeleteProduct" time="44.574">
+    <system-out><![CDATA[firefox
+]]></system-out>
+    <system-err><![CDATA[1660290186131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AYUSHS~1\\AppData\\Local\\Temp\\rust_mozprofileHl4k0Y"
+1660290187423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1660290187423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1660290187424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1660290187424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 JavaScript error: undefined, line 14: Error: An unexpected error occurred
-JavaScript error: moz-extension://9a450bbb-852e-4832-a85c-2f45edb34716/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
 JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1660213800519	Marionette	INFO	Listening on port 56919
-1660213801030	Marionette	WARN	TLS certificate errors will be ignored for this session
-Aug 11, 2022 4:00:01 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+JavaScript error: moz-extension://f24f6867-6638-4569-a372-1ae0a043874f/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1660290191730	Marionette	INFO	Listening on port 52349
+1660290192088	Marionette	WARN	TLS certificate errors will be ignored for this session
+Aug 12, 2022 1:13:12 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-JavaScript warning: http://localhost:8888/jscalendar/calendar.js, line 1695: unreachable code after return statement
 ]]></system-err>
   </testcase>
-  <testcase name="deleteProduct" classname="com.crm.sdet.product.DeleteProduct" time="13.029">
-    <system-err><![CDATA[JavaScript warning: http://localhost:8888/jscalendar/calendar.js, line 1695: unreachable code after return statement
-JavaScript warning: http://localhost:8888/jscalendar/calendar.js, line 1695: unreachable code after return statement
-JavaScript warning: http://localhost:8888/jscalendar/calendar.js, line 1695: unreachable code after return statement
-]]></system-err>
-  </testcase>
-  <testcase name="createCampaignWithProduct" classname="com.crm.sdet.campaign.CreateCampaignWithProduct" time="13.664">
+  <testcase name="createProduct" classname="com.crm.sdet.product.CreateProduct" time="20.513">
     <system-out><![CDATA[edge
-//span[contains(text(),'Product915 -  Product Information')]
+//span[contains(text(),'Product879 -  Product Information')]
+//span[contains(text(),'Product324 -  Product Information')]
 Administrator - Campaigns - vtiger CRM 5 - Commercial Open Source CRM--Products&action
 --Products&action
-//a[text()='Product915']
-Administrator - Campaigns - vtiger CRM 5 - Commercial Open Source CRM--Campaigns
-Administrator - Campaigns - vtiger CRM 5 - Commercial Open Source CRM++Campaigns
-//span[contains(text(),'Campaign934 -  Campaign Information')]
-//span[contains(text(),'Product922 -  Product Information')]
 ]]></system-out>
-    <system-err><![CDATA[Starting Microsoft Edge WebDriver 104.0.1293.47 (246533a39fec5a167e7729d997877afea075bd86) on port 17612
+    <system-err><![CDATA[Starting Microsoft Edge WebDriver 104.0.1293.47 (246533a39fec5a167e7729d997877afea075bd86) on port 28343
 To submit feedback, report a bug, or suggest new features, please visit https://github.com/MicrosoftEdge/EdgeWebDriver
 
 Only local connections are allowed.
 Please see https://aka.ms/WebDriverSecurity for suggestions on keeping Microsoft Edge WebDriver safe.
 
 Microsoft Edge WebDriver was started successfully.
-Aug 11, 2022 4:00:24 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+JavaScript warning: http://localhost:8888/jscalendar/calendar.js, line 1695: unreachable code after return statement
+Aug 12, 2022 1:13:20 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
+JavaScript warning: http://localhost:8888/jscalendar/calendar.js, line 1695: unreachable code after return statement
+JavaScript warning: http://localhost:8888/jscalendar/calendar.js, line 1695: unreachable code after return statement
+JavaScript warning: http://localhost:8888/jscalendar/calendar.js, line 1695: unreachable code after return statement
 ]]></system-err>
   </testcase>
-  <testcase name="createProduct" classname="com.crm.sdet.product.CreateProduct" time="17.054">
-    <system-err><![CDATA[1660213843832	Marionette	INFO	Stopped listening on port 56919
-[Child 25444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588189409/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
-[Child 25444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588189409/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
-[Child 26356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588189409/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
-[GPU 27776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588189409/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
-
-###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
-
-]]></system-err>
+  <testcase name="createCampaignWithProduct" classname="com.crm.sdet.campaign.CreateCampaignWithProduct" time="30.237">
+    <system-out><![CDATA[//a[text()='Product879']
+Administrator - Campaigns - vtiger CRM 5 - Commercial Open Source CRM--Campaigns
+Administrator - Campaigns - vtiger CRM 5 - Commercial Open Source CRM++Campaigns
+//span[contains(text(),'Campaign636 -  Campaign Information')]
+]]></system-out>
   </testcase>
 </testsuite>
